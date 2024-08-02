@@ -12,3 +12,10 @@ Dashboard Image
 Pivot tables Image
 ![image](https://github.com/user-attachments/assets/19dfb16f-db71-4f64-bb17-c3c80c24e27c)
 
+# Project 3: Vrinda Store Sales
+Dashboard Image:
+![image](https://github.com/user-attachments/assets/e2cfcb0f-5a9c-4c1c-8027-aab08d57a7da)
+Pivot Table image:
+![image](https://github.com/user-attachments/assets/ff504d0b-4bdd-4efd-b0ac-766ef419c6db)
+Conclusion to improve Vrinda sales stores:
+Target women customer of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons avaiable on Amazon, Flipkart and Myntra
